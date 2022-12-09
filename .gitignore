@@ -1,5 +1,6 @@
 # Perso
 .DS_Store
+input.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
